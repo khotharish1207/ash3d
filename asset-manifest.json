@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8ec4b27.chunk.css",
+    "main.js": "/static/js/main.0859cb2c.chunk.js",
+    "main.js.map": "/static/js/main.0859cb2c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd3333a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd3333a6.js.map",
+    "static/js/2.6c197c25.chunk.js": "/static/js/2.6c197c25.chunk.js",
+    "static/js/2.6c197c25.chunk.js.map": "/static/js/2.6c197c25.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1f919485e8fef9abb7ba03d8a27669ff.js": "/precache-manifest.1f919485e8fef9abb7ba03d8a27669ff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b8ec4b27.chunk.css.map": "/static/css/main.b8ec4b27.chunk.css.map",
+    "static/js/2.6c197c25.chunk.js.LICENSE.txt": "/static/js/2.6c197c25.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/Instagram.png": "/static/media/Instagram.571d4e1a.png",
+    "static/media/logo_bg.png": "/static/media/logo_bg.e4b4777b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd3333a6.js",
+    "static/js/2.6c197c25.chunk.js",
+    "static/css/main.b8ec4b27.chunk.css",
+    "static/js/main.0859cb2c.chunk.js"
+  ]
+}
